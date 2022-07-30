@@ -80,6 +80,7 @@ class Running(Training):
         )
         return spent_calories
 
+
 class SportsWalking(Training):
     """Тренировка: спортивная ходьба."""
 
